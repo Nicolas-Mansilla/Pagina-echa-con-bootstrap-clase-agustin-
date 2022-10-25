@@ -1,0 +1,29 @@
+
+*{
+    font-style: italic;
+    background-image: url("https://www.design.svgbackgrounds.com/wp-content/uploads/2021/05/sun-tornado-orange-spinning-background.jpg");
+
+}
+h1{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.nav-link{
+    color:aquamarine;
+}
+
+.nav-item{
+    background-color: blanchedalmond;
+}
+
+
+.carousel-item{
+    max-width:auto;
+    max-height:auto;
+}
+h6{
+    color: bisque;
+}
+.parrafoCard{
+    color: bisque
+}
